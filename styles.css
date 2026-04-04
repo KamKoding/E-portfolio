@@ -114,7 +114,7 @@ nav {
 }
 
 .about-me__picture {
-    width: 100%;
+    width: 66%;
 
     /* Improving my own picture */
     transform: scale(1.5);
